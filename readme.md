@@ -17,10 +17,14 @@
 ## 歷史
 最初構想： 2011 年。
 實際動工： 2013 年 8 月。
-逐漸上線： 2015 年 8 月。
+重新整理： 2015 年 8 月。
 
 ## 子目
 
 ### 康煕字典
 圖像：中華書局 2010 版（同文書局版之影本，附現代檢字表） 04h pdg ， ssid: 12622261 。對原圖放大一倍、糾斜、裁邊並轉爲單色 tif 。處理後圖片總體積從 988MB 縮至 366MB 。
 索引： kx2ucs.txt ，見 https://github.com/cjkvi/cjkvi-dict/ 。
+
+### 漢語大字典
+圖像：漢語大字典第二版 04h pdg ， ssid: 12621612 等。對原圖放大一倍、糾斜、裁邊並轉爲單色 tif 。處理後圖片總體積從 2.1GB 縮至 948MB 。
+索引： http://bbs.unispim.com/forum.php?mod=redirect&goto=findpost&ptid=31606&pid=121595 。 Unicode 所缺字原作 X ，現作「缺字」。
