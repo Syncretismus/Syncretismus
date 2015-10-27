@@ -48,7 +48,7 @@
 索引： http://bbs.unispim.com/forum.php?mod=redirect&goto=findpost&ptid=31606&pid=121595 。 Unicode 所缺字原作 X ，現作「缺字」。爲了便於檢閱，這些缺字統合在了一起。
 
 ### 故訓匯纂 (gxhz)
-圖像：故訓匯纂 02h pdg ， ssid: 11208070 。對原圖糾斜、裁邊。圖像體積變化不大，從 409 MB 減少至 406MB 。
+圖像：故訓匯纂初版 02h pdg ， ssid: 11208070 。對原圖糾斜、裁邊。圖像體積變化不大，從 409 MB 減少至 406MB 。
 索引： http://bbs.xueleku.com/forum.php?mod=viewthread&tid=369962 。由於該文件給出了每個字的順序，因而得以按原順序重排。
 SS 原圖的淸晰度不夠， 13263942 的 2007 大字版很淸晰，但僅有上冊且沒有文本索引。
 
